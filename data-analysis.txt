@@ -1,0 +1,5 @@
+getting the data
+analyzing the data numpy
+cleaning the data pandas
+preprocessing sklearn
+visualizing the data matplotlib,Seanborn
