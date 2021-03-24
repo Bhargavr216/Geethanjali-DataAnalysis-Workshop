@@ -1,0 +1,43 @@
+1.git init
+
+2. git status
+
+3. git add *.txt
+
+4.git add data.txt dat2.txt
+
+5.git add .
+
+6. git rm --cached filename
+
+7. git remote add remotename remotelink
+
+8. git config --global user.username yourname
+
+9.git config --global user.email youremail
+
+9. git commit -m "messagename"
+
+10. git pull origin master
+
+10. git push remotename branchname
+
+
+
+-----------------------------------------
+
+Same Repository---->same folder
+
+1.git status
+
+2. git add .
+
+
+3. git rm --cached  filename
+
+
+4. git commit -m "messagename"
+
+5. git push origin master
+
+6.git clone repository url
