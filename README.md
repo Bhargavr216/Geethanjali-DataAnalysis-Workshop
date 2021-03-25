@@ -12,3 +12,19 @@
 + Python Introduction
 
 + Existing Modules
+
+# Day-2
+
++ GitHub
++ Python
+
+
+# Day-3 
+
++ Numpy
+
+
+# Day-4
+
++ Pandas
+
