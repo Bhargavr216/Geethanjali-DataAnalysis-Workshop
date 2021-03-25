@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1.combined avg income of all states from 2k05 to 2k13
 
 2.states with highest avg income in last 3 years 
@@ -9,3 +10,16 @@
 5.print the names of states based on decending order for income in the year 2k09
 
 6.print the list of all states in the same line with avg income less than california 
+=======
+1.combined avg income of all states from 2k05 to 2k13
+
+2.states with highest avg income in last 3 years 
+
+3.states with lowest avg income in last 2k07 to 2k10 years 
+
+4.states with lowest recoreded data 2k05 to 2k13
+
+5.print the names of states based on decending order for income in the year 2k09
+
+6.print the list of all states in the same line with avg income less than califonia 
+>>>>>>> faf578a8b06ca9a4c1bb312015cc9e81d952ffb6
