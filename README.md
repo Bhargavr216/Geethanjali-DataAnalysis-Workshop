@@ -1,30 +1,69 @@
-# Geethanjali-DataAnalysis-Workshop
+# Geethanjali Data Analysis Workshop
 
-# Day-1
+Welcome to the **Geethanjali Data Analysis Workshop**! This repository contains all the resources, notes, and exercises from the workshop. The workshop is organized into multiple days, each covering key aspects of data analysis.
 
-+ Introduction To DataAnalysis
-  + what is data
-  + types of data
-  + steps in dataanalysis
+## Table of Contents
 
-+ Anaconda Installation
+1. [Day 1: Introduction to Data Analysis](#day-1-introduction-to-data-analysis)
+2. [Day 2: GitHub & Python](#day-2-github--python)
+3. [Day 3: Numpy](#day-3-numpy)
+4. [Day 4: Pandas](#day-4-pandas)
 
-+ Python Introduction
+---
 
-+ Existing Modules
+## Day 1: Introduction to Data Analysis
 
-# Day-2
+On Day 1, we will cover the fundamentals of data analysis.
 
-+ GitHub
-+ Python
+- **Introduction to Data Analysis**
+  - What is Data?
+  - Types of Data
+  - Steps in Data Analysis
+  
+- **Anaconda Installation**  
+  Learn how to install and configure Anaconda, a popular platform for data science.
 
+- **Introduction to Python**  
+  Get introduced to Python programming, which is widely used in data analysis.
 
-# Day-3 
+- **Existing Modules**  
+  Learn about existing Python modules that simplify data analysis tasks.
 
-+ Numpy
+---
 
+## Day 2: GitHub & Python
 
-# Day-4
+On Day 2, we will dive into using **GitHub** and continue exploring **Python**.
 
-+ Pandas
+- **GitHub**  
+  - Learn how to use GitHub for version control and collaboration.
+  - Create repositories, commit changes, and manage projects.
+
+- **Python**  
+  - Continue learning Python basics and explore libraries commonly used in data analysis.
+  
+---
+
+## Day 3: Numpy
+
+On Day 3, we focus on **Numpy**, a core library for numerical computing in Python.
+
+- **Numpy**  
+  - Learn how to work with Numpy arrays and perform basic operations like reshaping, slicing, and mathematical functions.
+
+---
+
+## Day 4: Pandas
+
+On Day 4, we will dive into **Pandas**, a powerful library for data manipulation and analysis.
+
+- **Pandas**  
+  - Learn how to handle data using Pandas' DataFrame.
+  - Perform common data operations such as sorting, filtering, and aggregating data.
+
+---
+
+## License
+
+This repository is open for educational purposes. Feel free to contribute and share the knowledge!
 
